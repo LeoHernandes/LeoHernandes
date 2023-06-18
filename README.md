@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Hi, I'm <a href="https://www.inf.ufrgs.br/~lhvasconcelos/index.html" target="_blank" rel="noreferrer">Léo.</a> Hope you are having a good day! 😃
+Hi, I'm <a href="https://www.inf.ufrgs.br/~lhvasconcelos/" target="_blank" rel="noreferrer">Léo.</a> Hope you are having a good day! 😃
 </h3>
 
 ## 📈 GitHub Stats 
