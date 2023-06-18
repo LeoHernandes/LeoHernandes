@@ -18,6 +18,6 @@ Hi, I'm <a href="https://www.inf.ufrgs.br/~lhvasconcelos/index.html" target="_bl
 ## 🤝 Connect with me:
 <p align="center">
 <a href="https://www.linkedin.com/in/leo-vasconcelos/"><img src="https://img.shields.io/badge/-Léo_Vasconcelos-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="www.youtube.com/@LeoHernandes"><img src="https://img.shields.io/badge/-Léo_Hernandes-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@LeoHernandes"><img src="https://img.shields.io/badge/-Léo_Hernandes-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 <a href="mailto:lhvasconcelos@inf.ufrgs.br"><img src="https://img.shields.io/badge/-lhvasconcelos-737373?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 </p>
