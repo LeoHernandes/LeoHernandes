@@ -1,6 +1,6 @@
 
 <p align="center">
- <img height="300px" src="https://github.com/LeoHernandes/LeoHernandes/assets/72423032/48e65b22-25c4-40dc-9d94-a89b62c26a53" alt="my banner">
+ <img height="150px" src="https://github.com/LeoHernandes/LeoHernandes/assets/72423032/48e65b22-25c4-40dc-9d94-a89b62c26a53" alt="my banner">
 </p>
 
 <h3 align="center">
