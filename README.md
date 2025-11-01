@@ -1,10 +1,5 @@
-
-<p align="center">
- <img height="150px" src="https://github.com/LeoHernandes/LeoHernandes/assets/72423032/48e65b22-25c4-40dc-9d94-a89b62c26a53" alt="my banner">
-</p>
-
 <h3 align="center">
-Hi, I'm <a href="https://www.inf.ufrgs.br/~lhvasconcelos/" target="_blank" rel="noreferrer">Léo.</a> Hope you are having a good day! 😃
+Hi, I'm Léo. Hope you are having a good day! 😃
 </h3>
 
 ## 📈 GitHub Stats 
